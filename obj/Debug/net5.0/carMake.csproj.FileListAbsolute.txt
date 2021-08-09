@@ -1,0 +1,16 @@
+C:\Users\unnip\repos\carMake\obj\Debug\net5.0\carMake.csproj.AssemblyReference.cache
+C:\Users\unnip\repos\carMake\obj\Debug\net5.0\carMake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unnip\repos\carMake\obj\Debug\net5.0\carMake.AssemblyInfoInputs.cache
+C:\Users\unnip\repos\carMake\obj\Debug\net5.0\carMake.AssemblyInfo.cs
+C:\Users\unnip\repos\carMake\obj\Debug\net5.0\carMake.csproj.CoreCompileInputs.cache
+C:\Users\unnip\repos\carMake\bin\Debug\net5.0\carMake.exe
+C:\Users\unnip\repos\carMake\bin\Debug\net5.0\carMake.deps.json
+C:\Users\unnip\repos\carMake\bin\Debug\net5.0\carMake.runtimeconfig.json
+C:\Users\unnip\repos\carMake\bin\Debug\net5.0\carMake.runtimeconfig.dev.json
+C:\Users\unnip\repos\carMake\bin\Debug\net5.0\carMake.dll
+C:\Users\unnip\repos\carMake\bin\Debug\net5.0\ref\carMake.dll
+C:\Users\unnip\repos\carMake\bin\Debug\net5.0\carMake.pdb
+C:\Users\unnip\repos\carMake\obj\Debug\net5.0\carMake.dll
+C:\Users\unnip\repos\carMake\obj\Debug\net5.0\ref\carMake.dll
+C:\Users\unnip\repos\carMake\obj\Debug\net5.0\carMake.pdb
+C:\Users\unnip\repos\carMake\obj\Debug\net5.0\carMake.genruntimeconfig.cache
